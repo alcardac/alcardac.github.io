@@ -18,12 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: The SDMX ISTAT Toolkit
+email: alcardac@istat.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  **The SDMX Istat Toolkit (SDMX-IT)** is a set of pick-and-choose, free and open-source, software building blocks allowing a statistical organization to facilitate the dissemination/reporting processes, through the standardization and industrialization of the following actions:
+   metadata handling
+	database building
+	data loading
+	data/metadata dissemination/reporting (GUI and M2M)
+	data exchange between Organizations (Pull and Push)
+The SDMX-IT was built using the SDMX Common API (SdmxSource.NET) and integrates the SDMX Reference Infrastructure (SDMX-RI) developed by Eurostat.
+A statistical organization can use the Toolkit for building “stand-alone” dissemination systems or a “distributed” data warehouse SDMX-based.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
