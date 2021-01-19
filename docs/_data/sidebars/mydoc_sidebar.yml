@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: 
+  version:
   folders:
 
   - title:
@@ -23,12 +23,12 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: What is the ISTAT Statkit
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: ISTAT Statkit building blocks
       url: /mydoc_introduction.html
       output: web, pdf
 
