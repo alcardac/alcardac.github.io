@@ -1,7 +1,6 @@
 ---
 title: "What is the ISTAT Statkit"
 keywords: sample homepage
-tags: [Istat Statkit]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: StatKit is a free and open-source toolkit allowing a statistical organization to facilitate the standardization and industrialization of statistical dissemination and reporting
