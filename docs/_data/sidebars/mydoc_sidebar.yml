@@ -32,11 +32,11 @@ entries:
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title:  Meta&Data Manager
-      url: /mydoc_supported_features.html
+    - title:  Meta&Data Manager features
+      url: /mydoc_MDM_pages.html
       output: web, pdf
-    - title:  Data Browser
-      url: /mydoc_supported_features.html
+    - title:  Data Browser features
+      url: /mydoc_DB_pages.html
       output: web, pdf
         
     
